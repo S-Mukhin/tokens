@@ -1,0 +1,11 @@
+{
+  "tokenSetOrder": [
+    "ref-colors",
+    "ref-colors-lowsat",
+    "sys-colors.light",
+    "sys-colors.dark",
+    "ref-typography",
+    "light-theme",
+    "dark-theme"
+  ]
+}
